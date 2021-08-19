@@ -1,8 +1,8 @@
-import notes from './items'
+import users from './items'
 
 export async function main() {
 	return {
 		statusCode: 200,
-		body: JSON.stringify(notes),
+		body: JSON.stringify(users),
 	}
 }
