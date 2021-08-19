@@ -1,7 +1,7 @@
 {
   "name": "serverless-linktree-backend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "sst test",
     "start": "sst start",
